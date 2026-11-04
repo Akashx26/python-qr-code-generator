@@ -1,2 +1,5 @@
-streamlit
+streamlit==1.66.1
 qrcode[pil]
+python-barcode==0.16.1
+Pillow==13.0.0
+opencv-python-headless==5.0.0.93
